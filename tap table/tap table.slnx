@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tap table.vcxproj" Id="7e713957-1b23-4378-9c8d-3c5849716929" />
+</Solution>
